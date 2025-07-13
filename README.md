@@ -75,7 +75,7 @@
 | 🏎️ **Car Finder** | Platform to browse, filter, and manage new/used cars | Next.js, Tailwind, Spring Boot, PostgreSQL |
 | 🎓 **Employee Training Portal** | Training course enrollment platform | Next.js, Tailwind, Redux Toolkit |
 | 🌽 **Smart Maize Yield Tool** | Predicts optimal crop using AI & climate data | React, Tailwind, Laravel |
-| 🍕 **Sandokizeria** | Pizza ordering website | React, CSS |
+| 🍕 **SandoPizzeria** | Pizza ordering website | React, CSS |
 | 🛍️ **Easy-Buy Website** | E-commerce site | HTML, CSS, JavaScript |
 | 🧠 **Crop Yield Tool** | Django-based crop prediction | Python, Django |
 | 🪑 **Exam Sitting Arrangement** | Java app for seat allocation | Java |
