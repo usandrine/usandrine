@@ -69,7 +69,7 @@ p align="center">
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
