@@ -18,12 +18,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
-<!--p align="center">
+p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=usandrine&theme=monokai&no-bg=true&no-frame=true&margin-w=15" />
 </p> 
--->
+
 
 ---
 
@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usandrine&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usandrine&layout=compact&theme=radical" height="150"/>
-</p>
+</p>-->
 
 ---
 
