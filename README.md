@@ -64,7 +64,7 @@ p align="center">
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![InteliJ](https://img.shields.io/badge/RetailJ-2C2C2C?style=flat&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ---
