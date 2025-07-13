@@ -20,9 +20,10 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!--p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=usandrine&theme=monokai&no-bg=true&no-frame=true&margin-w=15" />
-</p>
+</p> 
+-->
 
 ---
 
