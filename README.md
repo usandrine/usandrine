@@ -3,18 +3,16 @@
 <h1 align="center">Hey there! 👋 I'm Umugwaneza Sandrine</h1>
 
 <p align="center">
-  A passionate Full-Stack Developer from Rwanda 🇷🇼 
+ Welcome to my GitHub profile! I'm a full-stack software engineer passionate about open-source and building impactful projects. With expertise in React, TypeScript, Node.js ,PostgreSQL, Java and Spring boot. I love solving complex problems and creating solutions that make a difference.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 A Final Year Computer & Software Engineering Student @ University of Rwanda
 - 🌱 I love building impactful tools in AgriTech, EdTech, and HealthTech
-- 💡 Passionate about AI, Full-Stack Web & Mobile Apps, and Sustainable Tech
-- 🧠 Currently learning IoT & advanced backend development
-- 💼 Open to internship  and job opportunities
+- 💡 Passionate about  Full-Stack Web & Mobile Apps, and Sustainable Tech 
+- 💼 Open to  job opportunities
 
 ---
 
@@ -45,6 +43,7 @@ p align="center">
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
@@ -66,7 +65,9 @@ p align="center">
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ---
 
 ##  Featured Projects
@@ -84,7 +85,8 @@ p align="center">
 | 🩺 **Health Appointment System** | Web-based doctor appointment system | Spring Boot |
 | 📝 **Blog Platform** | CRUD blog app with comments | Spring Boot, Spring Security |
 
-> Hosted project & portfolio links below 👇
+#Hosted projects & portfolio links below 👇
+
 https://sandrineportfolio.vercel.app
 https://my-employee-training-portal-course.vercel.app/
 https://reactwebsite-dczb-lnbh8hjr3-usandrines-projects.vercel.app/
