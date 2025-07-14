@@ -85,12 +85,12 @@ p align="center">
 | 🩺 **Health Appointment System** | Web-based doctor appointment system | Spring Boot |
 | 📝 **Blog Platform** | CRUD blog app with comments | Spring Boot, Spring Security |
 
-#Hosted projects & portfolio links below 👇
+## Hosted projects & portfolio links below 👇
 
-https://sandrineportfolio.vercel.app
-https://my-employee-training-portal-course.vercel.app/
-https://reactwebsite-dczb-lnbh8hjr3-usandrines-projects.vercel.app/
-https://ui-components-eu3uz6ca4-usandrines-projects.vercel.app/
+- https://sandrineportfolio.vercel.app
+- https://my-employee-training-portal-course.vercel.app/
+- https://reactwebsite-dczb-lnbh8hjr3-usandrines-projects.vercel.app/
+- https://ui-components-eu3uz6ca4-usandrines-projects.vercel.app/
 ---
 
 ## 🌐 Portfolio & Contact
